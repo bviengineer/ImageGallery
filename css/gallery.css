@@ -1,13 +1,17 @@
-body {
-    font-family: 'Raleway', sans-serif;
-}
-
 img {
     width: 30%;
     float: left;
-    margin: 1.66%;   
+    margin: 1.66%;
+    padding-top: 0;   
 }
 
 p {
-    margin-right: 1.66%;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 1.66%;
+    padding-bottom: 0;
+    font-size: 23px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom:  2px solid #f1f1f1;
+    width: 30%;
 }
